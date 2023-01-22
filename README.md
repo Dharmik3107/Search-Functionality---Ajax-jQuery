@@ -2,6 +2,8 @@
 
 This project is a practice project for implementing search functionality using AJAX and jQuery.
 
+## Demo
+[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA](https://user-images.githubusercontent.com/49364985/213916539-f744137a-f5a8-4a67-b932-3b1207d8e4e1.mp4))
 ## Features
 
 - Search for items using a search bar
